@@ -1,5 +1,5 @@
 > [!NOTE]  
-> This repo will be submitted for the ibm skills final project.
+> This repo will be submitted for the ibm skills final project. It is not intended to be a real project.
 
 # Project
 A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
